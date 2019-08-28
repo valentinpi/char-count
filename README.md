@@ -1,1 +1,1 @@
-"# char-count" 
+# char-count 
